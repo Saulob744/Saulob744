@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Saulo Borges
 
-🎯 **Agente Profissional de Tecnologia da Informação – SESP/PR**  
+🎯 **Profissional de Tecnologia da Informação – SESP/PR**  
 📊 Focado em **Dados, SQL, Python, ETL e Análise para apoio à tomada de decisão**  
 💼 Área atual: **Análise e Tratamento de Dados**  
 📚 Sempre estudando: Python (Pandas), SQL, Análise de Dados, Data Visualization
